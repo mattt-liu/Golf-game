@@ -16,5 +16,5 @@
 # have their own methods. My main method is inside Golf.java so
 # you'll want to run that file if u want to play it
 
-# please feel free to borrow chunks of my code and contact me if u
-# have any questions.
+# please feel free to borrow chunks of my code and reference it and
+# contact me if u have any questions.
