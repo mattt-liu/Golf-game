@@ -13,7 +13,8 @@
 # staticly referenced class call Calculations.java. Calculations is a
 # class that handles all the calculations in my program and
 # collisions. All the other custom classes are objects in my game
-# have their own methods.
+# have their own methods. My main method is inside Golf.java so
+# you'll want to run that file if u want to play it
 
 # please feel free to borrow chunks of my code and contact me if u
 # have any questions.
