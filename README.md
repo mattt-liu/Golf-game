@@ -1,12 +1,12 @@
 # Geo Golf
 
 # this is a game i made my in grade 12 intro to comp sci class as my
-# final project. i got 100 on this project and all code is 100% my 
-# own original code.
+# final project. i received a mark of 100 on this project and all 
+# code is 100% original
 
-# i used javax swing and awt for my graphics. this game
-# was heavily math based calculations and code. it's still rusty and 
-# theres still a lot of bugs. corners are buggy and moving levels are
+# i used javax swing and awt for my graphics and this game
+# was heavily math based calculations in my code. it's still rusty and 
+# there are many bugs. corners are buggy and moving levels are
 # unpredictable. 
 
 # i have multiple custom classes such as Ball.java or Line.java and a
